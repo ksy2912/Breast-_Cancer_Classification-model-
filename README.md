@@ -32,5 +32,3 @@ The logistic regression model was evaluated using an accuracy score to measure i
 ## Results
 The model effectively classifies breast cancer tumors, with a high accuracy in distinguishing between benign (non-cancerous) and malignant (cancerous) samples.
 
-## Contributing
-Contributions are welcome! If you have ideas for improving the model or adding new features, feel free to fork the repository and submit a pull request.
